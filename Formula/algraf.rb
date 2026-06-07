@@ -4,7 +4,7 @@
 class Algraf < Formula
   desc 'Block-scoped, algebraic grammar-of-graphics DSL.'
   homepage 'https://github.com/williamcotton/algraf'
-  url 'https://github.com/williamcotton/algraf.git', tag: 'v0.66.0'
+  url 'https://github.com/williamcotton/algraf.git', tag: 'v0.69.0'
   license 'MIT'
   head 'https://github.com/williamcotton/algraf.git', branch: 'main'
 
